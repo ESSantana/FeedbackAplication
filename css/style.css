@@ -1,0 +1,64 @@
+html, body {
+    height: 100%;
+}
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: #fff4e6;
+}
+
+.content {
+    position: relative;
+    min-height: 100%;
+}
+
+.navbar-font{
+    background:#ff5353; 
+    padding: 0px auto 0px auto;
+}
+
+.navbar-font a {
+    font-size: 20pt; 
+}
+nav a{
+    font-family: 'Lobster', cursive;
+    color: #ffffff;
+}
+
+nav a:hover{
+    color: #494949;
+}
+
+.card-footer{
+    position: absolute;
+    padding-bottom: 0px; 
+    width: 100%;
+    background: #004b7e;
+    margin-top: 30px;
+}
+
+.card-footer p , .card-footer p a{
+    text-align: center;
+    color: white;
+}
+
+h1{
+    font-size: 40pt; 
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    margin-top: 50px;
+}
+
+#descricao {
+    margin-top: 2em;
+}
+
+p, li{
+    text-align: justify;
+    font-size: 14pt;
+}
+
+.logo{
+    margin-top: 2.5em;
+    width: 200px;
+}

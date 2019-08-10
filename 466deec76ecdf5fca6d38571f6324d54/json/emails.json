@@ -1,0 +1,10 @@
+{
+    "grupo1": "email1@example.com",
+    "grupo2": [
+        "email2@example.com"
+    ],
+    "todos": [
+        "email1@example.com",
+        "email2@example.com"
+    ]
+}
